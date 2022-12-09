@@ -1,0 +1,5 @@
+- remove taskIds from today
+- move "api" controller
+- maybe use service
+- try sqlite
+- try freemarker 'import'
